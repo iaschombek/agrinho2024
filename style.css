@@ -1,20 +1,10 @@
 @import url(styles/header.css);
-@import url(styles/heart.css);
 @import url(styles/carrossel.css);
 @import url(styles/cards.css);
 @import url(styles/dorgaos.css);
 @import url(styles/dsangue.css);
-@import url(styles/oqépreciso.css);
 @import url(styles/footer.css);
-@import url(styles/carteirinha_sangue.css);
-@import url(styles/como_a_coleta.css);
 @import url(styles/carrossel__sangue.css);
-@import url(styles/onde_doar_s.css);
-@import url(styles/como_doar_org.css);
-@import url(styles/doadores.css);
-@import url(styles/quais_orgaos.css);
-@import url(styles/lista_espera.css);
-@import url(styles/riscos.css);
 
 :root{
     --cor-branco: #FFFFFF;
