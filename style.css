@@ -8,16 +8,16 @@
 
 :root{
     --cor-branco: #FFFFFF;
-    --cor-de-fundo: #D9ABFF;
+    --cor-de-fundo: #a2fa8b;
     --cor-hover : #fb3f25;
     --cor-primaria : #fff;
     --cor-do-titulo-carrossel: red;
-    --cor-do-card1: #ABE4FF;
-    --cor-do-card2: #FBC5D8;
+    --cor-do-card1: #1d0af7;
+    --cor-do-card2: #1d0af7;
     --cor-preto: #000000;
     --cor-de-azul: #4122d9;
-    --cor-do-retangulo: #c181ff;
-    --cor-do-fundo-carrossel:#d572ea;
+    --cor-do-retangulo: #59a24a;
+    --cor-do-fundo-carrossel:#157f0d;
     --fonte-principal: "Quicksand";
 }
 
