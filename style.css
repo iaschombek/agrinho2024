@@ -1,14 +1,13 @@
 @import url(styles/header.css);
 @import url(styles/carrossel.css);
 @import url(styles/cards.css);
-@import url(styles/dorgaos.css);
-@import url(styles/dsangue.css);
+@import url(styles/pratica.css);
+@import url(styles/sustentabilidade.css);
 @import url(styles/footer.css);
-@import url(styles/carrossel__sangue.css);
 
 :root{
     --cor-branco: #FFFFFF;
-    --cor-de-fundo: #a2fa8b;
+    --cor-de-fundo: #d8ffc2;
     --cor-hover : #fb3f25;
     --cor-primaria : #fff;
     --cor-do-titulo-carrossel: red;
