@@ -33,7 +33,7 @@ body{
 .card2 {
   position: relative;
   width: 370px;
-  height: 270px;
+  height: 280px;
   background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100% );
   border-radius: 10px;
   display: flex;
