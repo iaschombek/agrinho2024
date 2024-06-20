@@ -103,7 +103,7 @@ body{
 .logo{
   width: 160px;
   height: 160px;
-  margin-top: 5%;
+  margin-top: 4%;
   margin-left: 3%;
 }
 .wilson{
@@ -111,7 +111,7 @@ body{
   text-decoration: none;
   padding: 10px;
   font-weight: 700;
-  text-align: center;
+  text-align:inherit;
   margin-top: -4%;
 }
 .wilson a{
