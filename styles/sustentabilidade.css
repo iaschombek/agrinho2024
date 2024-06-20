@@ -11,7 +11,7 @@ body{
   flex-shrink: 0;
   color: var(--cor-do-titulo-carrossel);
   text-align: center;
-  font-size: 60px;
+  font-size: 65px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
@@ -26,7 +26,7 @@ body{
 
 .sust_campo{
   text-align: center;
-  font-size: 25px;
+  font-size: 35px;
 
 }
 /*card 2*/
