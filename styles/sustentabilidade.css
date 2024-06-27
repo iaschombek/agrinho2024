@@ -31,7 +31,7 @@ body{
 }
 
 .seção_sust_s{
- align-content: center;
+ align-content: space-between;
 }
 /*card 2*/
 .card2 {
