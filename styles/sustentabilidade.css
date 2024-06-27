@@ -109,7 +109,7 @@ body{
   justify-content: center;
   overflow: hidden;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
-  margin-left: 1000px;
+  margin-left: 700px;
   margin-top: 3em;
 }
   
@@ -176,7 +176,7 @@ body{
   justify-content: center;
   overflow: hidden;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
-  margin-left: 1500px;
+  margin-left: 1200px;
   margin-top: 6em;
 }
   
