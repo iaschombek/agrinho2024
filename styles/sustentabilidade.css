@@ -29,6 +29,10 @@ body{
   font-size: 30px;
 
 }
+
+.seção_sust_s{
+ align-content: center;
+}
 /*card 2*/
 .card2 {
   position: relative;
