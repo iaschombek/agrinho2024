@@ -96,7 +96,7 @@
     .carrossel__titulo1{
         text-align: center;
         font-size: 60px;
-        color: var(--cor-de-azul);
+        color: var(--cor-do-titulo-carrossel);
         position: absolute;
         left: 5em;
         
@@ -112,18 +112,10 @@
         top: 12%;
         font-weight: 700;
     }
-    .carrossel__frase{
-        text-align: center;
-        font-size: 30px;
-        color: var(--cor-preto);
-        position: absolute;
-        left: 12em;
-        top: 39%;
-    }
     .carrossel__frase2{
         text-align: center;
         font-size: 50px;
-        color: var(--cor-de-azul);
+        color: var(--cor-do-titulo-carrossel);
         left: 5em;
         top: 19%;
         position: absolute;
