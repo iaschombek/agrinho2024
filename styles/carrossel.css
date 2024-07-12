@@ -97,9 +97,9 @@
         text-align: center;
         font-size: 60px;
         color: var(--cor-de-azul);
-        
+        position: absolute;
         left: 5em;
-        top: 19%;
+        
         font-weight: 700;
         display: none;
     }
