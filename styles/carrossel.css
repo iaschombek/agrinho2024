@@ -96,8 +96,8 @@
     .carrossel__titulo1{
         text-align: center;
         font-size: 60px;
-        color: var(--cor-preto);
-        position: absolute;
+        color: var(--cor-de-azul);
+        
         left: 5em;
         top: 19%;
         font-weight: 700;
