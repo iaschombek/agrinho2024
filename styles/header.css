@@ -8,7 +8,7 @@
       justify-content: space-between;
       align-items: center;
       position: relative;
-      padding: 2em;
+      padding-left: 2em;
   }
 
   .lista-menu__item{
