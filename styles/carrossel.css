@@ -22,6 +22,7 @@
         font-size: 70px;
         color: var(--cor-do-titulo-carrossel);
         font-weight: 700;
+        margin-left: 10em;
     }
     
     .carrossel__titulo2{
