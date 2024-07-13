@@ -6,6 +6,7 @@
       background-color: var(--cor-branco);
       justify-content: space-between;
       text-decoration: none;
+      position: relative;
   }
 
   .lista-menu__item{
