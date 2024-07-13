@@ -12,8 +12,6 @@
   
   .lista-menu__item{
     background-color: var(--cor-de-fundo);
-    -webkit-background-clip: text;
-    background-clip: text;
     color: var(--cor-de-azul);
     text-decoration: none;
   }
