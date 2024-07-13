@@ -19,10 +19,11 @@
     }
     .carrossel__titulo1{
         text-align: center;
-        font-size: 70px;
+        font-size: 40px;
         color: var(--cor-do-titulo-carrossel);
+        position: absolute;
+        left: 8em;
         font-weight: 700;
-        margin-left: 10em;
     }
     
     .carrossel__titulo2{
