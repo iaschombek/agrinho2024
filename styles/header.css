@@ -42,8 +42,8 @@
   /* button styling */
   .button {
     --border-right: 6px;
-    --text-stroke-color: rgba(24, 176, 196, 0.6);
-    --animation-color: #c8f7ba;
+    --text-stroke-color: rgba(22, 208, 100, 0.6);
+    --animation-color: #d9eb52;
     --fs-size: 2em;
     letter-spacing: 3px;
     text-decoration: none;
