@@ -27,13 +27,13 @@
     }
     .trator__carrossel__img{
         padding: 1em;
+        position: relative;
     }
     .carrossel__titulo1_media{
         display: block;
         text-align: center;
         font-size: 30px;
         color: var(--cor-do-titulo-carrossel);
-        position: relative;
     }
     .carrossel__titulo2{
         text-align: center;
