@@ -5,12 +5,13 @@
   .cabecalho{
       background-color: var(--cor-branco);
       display: flex;
-      justify-content: space-around;
-      text-decoration: none;
+      justify-content: space-between;
+      align-items: center;
       position: relative;
   }
 
   .lista-menu__item{
+    display: inline;
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
