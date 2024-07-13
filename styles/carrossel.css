@@ -23,7 +23,7 @@
         text-align: center;
         font-size: 40px;
         color: var(--cor-do-titulo-carrossel);
-        position: absolute;
+        
         left: 8em;
         font-weight: 700;
     }
@@ -33,7 +33,5 @@
         font-size: 35px;
         color: var(--cor-de-azul);
         left: 7em;
-        
-        position: absolute;
     }
 
