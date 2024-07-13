@@ -21,10 +21,13 @@
         text-align: center;
         font-size: 30px;
         color: var(--cor-do-titulo-carrossel);
-        position: absolute;
+        position: relative;
         left: 5em;
         top: 19%;
         font-weight: 700;
+    }
+    .trator__carrossel__img{
+        position: absolute;
     }
     .carrossel__titulo1_media{
         display: block;
