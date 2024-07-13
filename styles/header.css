@@ -7,11 +7,9 @@
       display: flex;
       justify-content: space-between;
       position: relative;
+      text-decoration: none;
   }
 
-  .container{
-    text-decoration: none;
-  }
   .lista-menu__item{
     background-color: var(--cor-branco);
     color: var(--cor-preto);
