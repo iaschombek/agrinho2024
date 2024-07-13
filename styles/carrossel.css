@@ -18,6 +18,10 @@
         background-color: var(--cor-do-fundo-carrossel);
     }
 
-    
+    .carrossel__titulo1{
+        font-size: 4em;
+        color: var(--cor-dos-titulos);
+        margin-left: 7em;
+    }
     
 
