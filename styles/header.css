@@ -6,13 +6,14 @@
       background-color: var(--cor-branco);
       display: flex;
       justify-content: space-between;
-      align-items: center;
+      align-items:end;
       position: relative;
   }
   
   .lista-menu__item{
     background-color: var(--cor-branco);
     color: var(--cor-preto);
+    list-style: none;
     text-decoration: none;
   }
   
