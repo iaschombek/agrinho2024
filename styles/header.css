@@ -11,7 +11,7 @@
   }
   .opcoes{
     text-decoration: none;
-    color: blueviolet;
+    color: black;
   }
   .lista-menu__item{
     background-color: var(--cor-branco);
