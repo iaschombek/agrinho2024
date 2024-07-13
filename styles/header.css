@@ -11,7 +11,7 @@
   }
 
   .lista-menu__item{
-    display: inline;
+    display: none;
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
