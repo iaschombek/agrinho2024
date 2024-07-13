@@ -3,7 +3,7 @@
         font-family: var(--fonte-principal);
     }
     .swiper-slide img{
-        height: 230px;
+        height: 250px;
     }
     .swiper-button-prev1, 
     .swiper-button-next1 {
@@ -11,7 +11,7 @@
     }
 
     .swiper-slide1 img{
-        width: 20%;
+        width: 10%;
         height: 10px;
     }
     .carrossel{
