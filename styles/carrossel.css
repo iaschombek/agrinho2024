@@ -99,7 +99,6 @@
         color: var(--cor-do-titulo-carrossel);
         position: absolute;
         left: 5em;
-        
         font-weight: 700;
     }
     .carrossel__titulo2{
