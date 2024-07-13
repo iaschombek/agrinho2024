@@ -22,7 +22,6 @@
         font-size: 70px;
         color: var(--cor-do-titulo-carrossel);
         font-weight: 700;
-        display: flex;
     }
     .trator__carrossel__img{
     }
