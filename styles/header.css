@@ -15,6 +15,9 @@
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
+    
+  }
+  .lista-menu__link{
     text-decoration: none;
   }
   
