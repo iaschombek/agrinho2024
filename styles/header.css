@@ -8,7 +8,6 @@
       justify-content: space-between;
       align-items: center;
       position: relative;
-      padding-left: 2em;
   }
 
   .lista-menu__item{
@@ -16,6 +15,7 @@
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
+    padding-left: 2em;
   }
 
   .lista-menu__link{
