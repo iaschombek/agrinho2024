@@ -9,18 +9,6 @@
       align-items: center;
       position: relative;
   }
-  .lista-menu{
-      display: none;
-      position: absolute;
-      top: 100%;
-      width: 25vw;
-      z-index: 2;
-      list-style: none;
-  }
-  
-  a {
-    color: inherit;
-  }
   
   .lista-menu__item{
     background-color: var(--cor-de-fundo);
