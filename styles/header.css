@@ -15,7 +15,7 @@
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
-    padding-left: 2em;
+    padding-left: 4em;
   }
 
   .lista-menu__link{
