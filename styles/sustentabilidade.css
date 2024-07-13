@@ -101,7 +101,7 @@ body{
   
   /*Card 3*/
 .card3 {
-  position: absolute;
+  position: relative;
   width: 370px;
   height: 270px;
   background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100% );
@@ -168,7 +168,7 @@ body{
   
 /*Card 4*/
 .card4 {
-  position: absolute;
+  position: relative;
   width: 370px;
   height: 270px;
   background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100% );
