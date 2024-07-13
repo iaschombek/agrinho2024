@@ -26,12 +26,12 @@
     .trator__carrossel__img{
 
     }
-    .carrossel__titulo1_media{
+    /*.carrossel__titulo1_media{
         display: block;
         text-align: center;
         font-size: 30px;
         color: var(--cor-do-titulo-carrossel);
-    }
+    }*/
     .carrossel__titulo2{
         text-align: center;
         font-size: 40px;
