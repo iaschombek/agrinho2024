@@ -9,11 +9,13 @@
       position: relative;
   }
 
+  .container{
+    text-decoration: none;
+  }
   .lista-menu__item{
     background-color: var(--cor-branco);
     color: var(--cor-preto);
     list-style: none;
-    text-decoration: none;
   }
   
   /* botao agrinho */
