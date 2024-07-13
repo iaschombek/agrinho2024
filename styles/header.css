@@ -4,7 +4,7 @@
   }
   .cabecalho{
       background-color: var(--cor-branco);
-      justify-content: space-between;
+      justify-content: space-around;
       text-decoration: none;
       position: relative;
   }
