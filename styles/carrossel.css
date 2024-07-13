@@ -3,7 +3,7 @@
         font-family: var(--fonte-principal);
     }
     .swiper-slide img{
-        height: 250px;
+        height: 230px;
     }
     .swiper-button-prev1, 
     .swiper-button-next1 {
@@ -34,7 +34,7 @@
         left: 8em;
         font-weight: 700;
     }
-    
+
     .carrossel__frase2{
         text-align: center;
         font-size: 35px;
