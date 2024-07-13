@@ -6,7 +6,6 @@
       background-color: var(--cor-branco);
       display: flex;
       justify-content: space-between;
-      position: relative;
       text-decoration: none;
   }
 
