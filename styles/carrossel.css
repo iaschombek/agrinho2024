@@ -19,19 +19,19 @@
     }
 
     .carrossel__titulo1{
-        font-size: 4em;
+        font-size: 2em;
         color: var(--cor-dos-titulos);
         margin-left: 7em;
     }
 
     .carrossel__titulo2{
-        font-size: 4em;
+        font-size: 2em;
         color: var(--cor-dos-titulos);
         margin-left: 7em;
     }
 
     .carrossel__frase2{
-        font-size: 4em;
+        font-size: 2em;
         color: var(--cor-dos-titulos);
         margin-left: 7em;
     }
