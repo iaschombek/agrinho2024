@@ -7,13 +7,13 @@ body{
 }
 .sust{
   width: 100%;
-  height: 123px;
+  height: 110px;
   flex-shrink: 0;
-  color: var(--cor-dos-titulos);
+  color: var(--cor-preto);
   text-align: center;
   font-size: 65px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   line-height: normal;
 }
 .retangulo{
@@ -26,8 +26,8 @@ body{
 
 .sust_campo{
   text-align: center;
-  font-size: 30px;
-
+  font-size: 27px;
+  padding-top: 3em;
 }
 
 
