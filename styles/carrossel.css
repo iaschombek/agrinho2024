@@ -23,7 +23,7 @@
     }
 
     .carrossel__titulo1{
-        font-size: 2em;
+        font-size: 4%;
         color: var(--cor-preto);
         margin-left: 7em;
         padding-top: 3em;
@@ -31,14 +31,14 @@
     }
 
     .carrossel__titulo2{
-        font-size: 2em;
+        font-size: 4%;
         color: var(--cor-preto);
         margin-left: 7em;
         padding-top: 3em;
     }
 
     .carrossel__frase2{
-        font-size: 2em;
+        font-size: 4%;
         color: var(--cor-preto);
         margin-left: 7em;
         padding-top: 3em;
