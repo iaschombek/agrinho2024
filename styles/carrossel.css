@@ -4,6 +4,7 @@
     }
     .swiper-slide img{
         height: 250px;
+        padding-left: 2em;
     }
     .swiper-button-prev1, 
     .swiper-button-next1 {
