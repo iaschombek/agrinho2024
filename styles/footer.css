@@ -11,6 +11,7 @@
     width: 150px;
     height: 150px;
     padding: 3em;
+    position: absolute;
     }
 
   .wilson{
@@ -20,7 +21,6 @@
     font-weight: 600;
     text-align: center;
     margin-left: 6em;
-    position: absolute;
   }
   .wilson a{
     text-decoration: none;
