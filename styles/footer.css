@@ -8,19 +8,19 @@
     background-color: var(--cor-do-fundo-carrossel);
   }
   .logo{
-    width: 120px;
+    width: 150px;
     height: 120px;
-    margin-top: 8%;
-    margin-left: 3%;
+    margin-top: 7em;
+    padding: 3em;
   }
   .wilson{
     font-size: 30px;
     text-decoration: none;
     padding: 10px;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
-    margin-top: -26%;
-    margin-left: 15%;
+    margin-top: 7em;
+    margin-left: 7em;
   }
   .wilson a{
     text-decoration: none;
@@ -37,8 +37,8 @@
     border: 1px solid rgba(0,0,0,0);
     cursor: pointer;
     transition: transform 0.5s;
-    margin-left: 29%;
-    margin-top: 3%;
+    margin-top: 7em;
+    padding-left: 4em;
   }
     
   .btn:hover {
