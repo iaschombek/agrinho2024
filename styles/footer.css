@@ -11,7 +11,7 @@
     width: 150px;
     height: 150px;
     padding: 3em;
-    position: relative;
+    position: absolute;
   }
   .wilson{
     font-size: 30px;
@@ -65,12 +65,12 @@
     justify-content: center;
     border: none;
     background-color: transparent;
-    position: absolute;
+    position: relative;
     /* overflow: hidden; */
     border-radius: 7px;
     cursor: pointer;
     transition: all .3s;
-    padding-left: 3em;
+    padding-left: 5em;
   }
   
   .svgContainer {
