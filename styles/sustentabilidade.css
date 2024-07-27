@@ -49,6 +49,10 @@ body{
   display: flex;
   padding: 3em;
 }
+.ti_gestao{
+  font-size: 2em;
+  align-items: center;
+}
 .card2 svg {
   width: 48px;
   fill: #333;
