@@ -12,7 +12,7 @@ body{
   color: var(--cor-preto);
   text-align: center;
   font-size: 65px;
-  font-style: normal;
+  font-style: oblique;
   font-weight: 400;
   line-height: normal;
 }
@@ -27,7 +27,7 @@ body{
 .sust_campo{
   text-align: center;
   font-size: 27px;
-  padding-top: 3em;
+  padding: 2em;
 }
 
 
