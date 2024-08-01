@@ -10,7 +10,9 @@
   .logo{
     width: 150px;
     height: 150px;
-    padding: 3em;
+    position: absolute;
+    padding-left: 10em;
+    padding-top: 5em;
     }
 
   .wilson{
