@@ -44,6 +44,10 @@ body{
   overflow: hidden;
   transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
 }
+.carde{
+  padding-left: 3em;
+  padding-right: 3em;
+}
 .seção_sust_s{
   position: relative;
   display: flex;
