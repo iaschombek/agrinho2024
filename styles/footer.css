@@ -11,7 +11,6 @@
     width: 150px;
     height: 150px;
     padding: 3em;
-    position: absolute;
     }
 
   .wilson{
@@ -66,7 +65,6 @@
     justify-content: center;
     border: none;
     background-color: transparent;
-    position: relative;
     /* overflow: hidden; */
     border-radius: 7px;
     cursor: pointer;
