@@ -31,6 +31,9 @@ body{
     margin: 2em;
 }
 /*card pratica*/
+.card_pratica_position{
+  padding: 5em;
+}
 .card_pratica{
     position: relative;
     width: 300px;
@@ -39,12 +42,11 @@ body{
     background: var(--cor-branco);
     overflow: hidden;
     border-radius: 20px;
-    padding-left: 5em;
+    padding: 5em;
   }
   .img_pratica_card{
-    width: 300px;
-    height: 300px;
-    align-items: center;
+    width: 290px;
+    height: 290px;
   }
 
   .card_title_pratica {
