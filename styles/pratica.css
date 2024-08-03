@@ -33,14 +33,18 @@ body{
 
 .card_pratica{
     position: relative;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     color: #2e2d31;
     background: #131313;
     overflow: hidden;
     border-radius: 20px;
   }
-  
+  .img_pratica_card{
+    width: 250px;
+    height: 250px;
+  }
+
   .temporary_text {
     font-weight: bold;
     font-size: 24px;
