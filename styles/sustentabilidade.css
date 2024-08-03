@@ -438,7 +438,7 @@ body{
   flex-shrink: 0;
   color: var(--cor-preto);
   text-align: center;
-  font-size: 38px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 500;
   line-height: normal;
@@ -449,4 +449,20 @@ body{
   height: 85px;
   flex-shrink: 0;
   background-color: var(--cor-do-retangulo);
+}
+
+.ods{
+  display: flex;
+}
+
+.ods7{
+  width: 150px;
+  height: 150px;
+  padding: 2em;
+}
+
+.ods11{
+  width: 150px;
+  height: 150px;
+  padding: 2em;
 }
