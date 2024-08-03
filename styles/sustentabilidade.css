@@ -36,7 +36,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: orange;
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -103,7 +103,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #f76700 0%, #22d912 100% );
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -168,7 +168,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #f76700 0%, #22d912 100% );
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -234,7 +234,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #f76700 0%, #22d912 100% );
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -301,7 +301,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #f76700 0%, #22d912 100% );
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
@@ -369,7 +369,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #efff08 0%, #22d912 100% );
+  background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
   align-items: center;
