@@ -39,19 +39,14 @@ body{
     background: var(--cor-branco);
     overflow: hidden;
     border-radius: 20px;
+    padding-left: 5em;
   }
   .img_pratica_card{
     width: 300px;
     height: 300px;
+    align-items: center;
   }
 
-  .temporary_text {
-    font-weight: bold;
-    font-size: 24px;
-    padding: 6px 12px;
-    color: #f8f8f8;
-  }
-  
   .card_title_pratica {
     font-weight: bold;
   }
@@ -85,12 +80,6 @@ body{
   .card_title_pratica {
     color: #131313;
     line-height: 15px;
-  }
-  
-  .card_subtitle_pratica {
-    display: block;
-    font-size: 12px;
-    margin-bottom: 10px;
   }
   
   .card_description_pratica{
