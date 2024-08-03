@@ -30,19 +30,21 @@ body{
     line-height: normal;
     margin: 2em;
 }
-
+/*card pratica*/
 .card_pratica{
     position: relative;
     width: 300px;
     height: 300px;
     color: #2e2d31;
-    background: #131313;
+    background: var(--cor-branco);
     overflow: hidden;
     border-radius: 20px;
+    padding: 3em;
   }
   .img_pratica_card{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
+    padding: 1em;
   }
 
   .temporary_text {
@@ -97,6 +99,7 @@ body{
     font-size: 14px;
     opacity: 0;
     transition: opacity .5s;
+    padding: 1em;
   }
   
   .card_pratica:hover .card_content_pratica {
