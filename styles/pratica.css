@@ -249,6 +249,7 @@ body{
   /*card pratica 3*/
 .card_pratica_position3{
   padding: 2em;
+  padding-left: 4em;
 }
 .card_pratica3{
     position: relative;
