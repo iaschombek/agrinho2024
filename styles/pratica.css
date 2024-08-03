@@ -42,7 +42,7 @@ body{
     background: var(--cor-branco);
     overflow: hidden;
     border-radius: 20px;
-    padding: 5em;
+    padding: 2em;
   }
   .img_pratica_card{
     width: 290px;
