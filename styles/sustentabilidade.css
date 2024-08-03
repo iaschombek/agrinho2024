@@ -443,13 +443,15 @@ body{
   font-weight: 500;
   line-height: normal;
 }
-
+.objetivos{
+  padding: 3em;
+}
 .retangulo2{
   width: 100%;
   height: 85px;
   flex-shrink: 0;
   background-color: var(--cor-do-retangulo);
-  padding: 4em;
+  padding: 1em;
 }
 
 .odsimg{
