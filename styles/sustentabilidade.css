@@ -451,7 +451,6 @@ body{
   height: 85px;
   flex-shrink: 0;
   background-color: var(--cor-do-retangulo);
-  padding: 1em;
 }
 
 .odsimg{
