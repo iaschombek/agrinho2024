@@ -378,7 +378,7 @@ body{
   position: relative;
   width: 370px;
   height: 270px;
-  background: linear-gradient(-45deg, #f76700 0%, #22d912 100% );
+  background: linear-gradient(-45deg, #efff08 0%, #22d912 100% );
   border-radius: 10px;
   display: flex;
   align-items: center;
