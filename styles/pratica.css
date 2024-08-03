@@ -92,6 +92,7 @@ body{
     opacity: 0;
     transition: opacity .5s;
     padding: 1em;
+    text-align: center;
   }
   
   .card_pratica:hover .card_content_pratica {
@@ -162,6 +163,7 @@ body{
     opacity: 0;
     transition: opacity .5s;
     padding: 1em;
+    text-align: center;
   }
   
   .card_pratica1:hover .card_content_pratica1 {
