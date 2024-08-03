@@ -94,7 +94,7 @@ body{
     font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1.5em;
+    padding: 1.2em;
   }
   
   .card_pratica:hover .card_content_pratica {
@@ -161,11 +161,10 @@ body{
   }
   
   .card_description_pratica1{
-    font-size: 17px;
+    font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1em;
-    text-align: center;
+    padding: 1.2em;
   }
   
   .card_pratica1:hover .card_content_pratica1 {
@@ -232,11 +231,10 @@ body{
   }
   
   .card_description_pratica2{
-    font-size: 17px;
+    font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1em;
-    text-align: center;
+    padding: 1.2em;
   }
   
   .card_pratica2:hover .card_content_pratica2 {
