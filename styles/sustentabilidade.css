@@ -449,6 +449,7 @@ body{
   height: 85px;
   flex-shrink: 0;
   background-color: var(--cor-do-retangulo);
+  padding: 4em;
 }
 
 .odsimg{
@@ -458,26 +459,26 @@ body{
 .ods7{
   width: 150px;
   height: 150px;
-  padding: 2em;
+  padding: 3em;
 }
 
 .ods11{
   width: 150px;
   height: 150px;
-  padding: 2em;
+  padding: 3em;
 }
 .ods12{
   width: 150px;
   height: 150px;
-  padding: 2em;
+  padding: 3em;
 }
 .ods13{
   width: 150px;
   height: 150px;
-  padding: 2em;
+  padding: 3em;
 }
 .ods15{
   width: 150px;
   height: 150px;
-  padding: 2em;
+  padding: 3em;
 }
