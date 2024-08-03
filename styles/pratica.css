@@ -31,9 +31,11 @@ body{
     margin: 2em;
 }
 /*card pratica*/
+.pratica_cards_div{
+  display: flex;
+}
 .card_pratica_position{
   padding-left: 4em;
-  display: flex;
 }
 .card_pratica{
     position: relative;
