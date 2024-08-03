@@ -32,12 +32,12 @@ body{
 }
 /*card pratica*/
 .card_pratica_position{
-  padding: 5em;
+  padding-left: 4em;
 }
 .card_pratica{
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 290px;
+    height: 290px;
     color: #2e2d31;
     background: var(--cor-branco);
     overflow: hidden;
@@ -45,8 +45,8 @@ body{
     padding: 2em;
   }
   .img_pratica_card{
-    width: 290px;
-    height: 290px;
+    width: 270px;
+    height: 270px;
   }
 
   .card_title_pratica {
