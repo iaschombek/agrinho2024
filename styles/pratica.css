@@ -36,6 +36,7 @@ body{
 }
 .card_pratica_position{
   padding: 2em;
+  padding-left: 4em;
 }
 .card_pratica{
     position: relative;
