@@ -305,7 +305,7 @@ body{
     font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1.2em;
+    padding: 1.1em;
   }
   
   .card_pratica3:hover .card_content_pratica3 {
@@ -387,7 +387,7 @@ body{
     transition-delay: .25s;
   }
 
-  /*card pratica 2*/
+  /*card pratica 5*/
 .card_pratica_position5{
   padding: 2em;
 }
