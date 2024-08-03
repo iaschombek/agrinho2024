@@ -91,10 +91,9 @@ body{
   }
   
   .card_description_pratica{
-    font-size: 17px;
+    font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding-top: 2em;
     padding: 2em;
   }
   
