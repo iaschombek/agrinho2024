@@ -94,7 +94,7 @@ body{
     font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1.2em;
+    padding: 1.3em;
   }
   
   .card_pratica:hover .card_content_pratica {
@@ -164,7 +164,7 @@ body{
     font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1.2em;
+    padding: 1.1em;
   }
   
   .card_pratica1:hover .card_content_pratica1 {
@@ -234,7 +234,7 @@ body{
     font-size: 18px;
     opacity: 0;
     transition: opacity .5s;
-    padding: 1.2em;
+    padding: 1.5em;
   }
   
   .card_pratica2:hover .card_content_pratica2 {
