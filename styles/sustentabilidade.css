@@ -449,7 +449,7 @@ body{
 }
 .retangulo2{
   width: 100%;
-  height: 90px;
+  height: 105px;
   flex-shrink: 0;
   background-color: var(--cor-do-retangulo);
 }

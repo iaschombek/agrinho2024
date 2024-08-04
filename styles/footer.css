@@ -16,13 +16,14 @@
     }
 
   .wilson{
-    font-size: 40px;
+    font-size: 47px;
     text-decoration: none;
     padding: 1em;    
     padding-top: 2em;
-    font-weight: 600;
+    font-weight: 300;
     text-align: center;
     margin-left: 6em;
+    
   }
   .wilson a{
     text-decoration: none;
