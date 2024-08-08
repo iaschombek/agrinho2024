@@ -35,9 +35,10 @@ body{
   display: flex;
 }
 .card_pratica_position{
-  padding: 2em;
-  padding-left: 4em;
+  padding: 5em;
+  padding-left: 10em;
 }
+
 .card_pratica{
     position: relative;
     width: 290px;
@@ -60,7 +61,7 @@ body{
   .card_content_pratica {
     position: absolute;
     left: 0;
-    bottom: 0;
+    bottom: 0; 
       /* edit the width to fit card */
     width: 100%;
     padding: 20px;
@@ -108,7 +109,7 @@ body{
 
   /*card pratica 1*/
 .card_pratica_position1{
-  padding: 2em;
+  padding: 5em;
 }
 .card_pratica1{
     position: relative;
@@ -178,7 +179,7 @@ body{
 
   /*card pratica 2*/
 .card_pratica_position2{
-  padding: 2em;
+  padding: 5em;
 }
 .card_pratica2{
     position: relative;
@@ -248,8 +249,8 @@ body{
 
   /*card pratica 3*/
 .card_pratica_position3{
-  padding: 2em;
-  padding-left: 4em;
+  padding: 5em;
+  padding-left: 10em;
 }
 .card_pratica3{
     position: relative;
@@ -319,7 +320,7 @@ body{
 
   /*card pratica 4*/
 .card_pratica_position4{
-  padding: 2em;
+  padding: 5em;
 }
 .card_pratica4{
     position: relative;
@@ -389,7 +390,7 @@ body{
 
   /*card pratica 5*/
 .card_pratica_position5{
-  padding: 2em;
+  padding: 5em;
 }
 .card_pratica5{
     position: relative;

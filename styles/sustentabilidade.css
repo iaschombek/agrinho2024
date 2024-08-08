@@ -39,6 +39,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 12em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -106,6 +107,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 6em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -171,6 +173,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 6em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -237,6 +240,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 12em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -304,6 +308,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 6em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -372,6 +377,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
+  margin-left: 6em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
