@@ -463,12 +463,12 @@ body{
 
 .odsimg{
   display: flex;
+  margin-left: 6em;
 }
 
 .ods7{
   width: 150px;
   height: 150px;
-  padding-left: 20em;
   padding: 6em;
 }
 
