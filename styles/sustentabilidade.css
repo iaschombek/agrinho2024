@@ -28,6 +28,7 @@ body{
   text-align: center;
   font-size: 27px;
   padding: 2em;
+  padding-left: 10em;
 }
 
 
@@ -39,7 +40,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
-  margin-left: 12em;
+  margin-left: 16em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -240,7 +241,7 @@ body{
   background: var(--cor-dos-cards);
   border-radius: 10px;
   display: flex;
-  margin-left: 12em;
+  margin-left: 16em;
   align-items: center;
   justify-content: center;
   overflow: hidden;
@@ -467,7 +468,7 @@ body{
 .ods7{
   width: 150px;
   height: 150px;
-  padding-left: 15em;
+  padding-left: 18em;
   padding: 6em;
 }
 
