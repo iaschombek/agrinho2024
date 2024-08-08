@@ -23,23 +23,28 @@
     }
 
     .carrossel__titulo1{
-        font-size: 2em;
+        font-size: 4em;
         color: var(--cor-preto);
-        margin-left: 6em;
-        padding-top: 3em;
-    
+        margin-left: 1em;
+        padding-top: 1em;
+        font-weight: 700;
+        text-align: center;
     }
 
     .carrossel__titulo2{
-        font-size: 2em;
+        font-size: 4em;
         color: var(--cor-preto);
-        margin-left:6em;
-        padding-top: 3em;
+        margin-left:1em;
+        padding-top: 1em;
+        font-weight: 700;
+        text-align: center;
     }
 
     .carrossel__frase2{
-        font-size: 2em;
+        font-size: 4em;
         color: var(--cor-preto);
-        margin-left: 6em;
-        padding-top: 3em;
+        margin-left: 1em;
+        padding-top: 1em;
+        font-weight: 700;
+        text-align: center;
     }
