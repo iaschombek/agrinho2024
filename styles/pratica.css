@@ -22,7 +22,7 @@ body{
 .texto{
     color: var(--cor-preto);
     margin-top: 3%;
-    margin-left: 7em;
+    padding-left: 7em;
     text-align:justify;
     font-size: 27px;
     font-style: normal;
