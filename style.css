@@ -4,7 +4,6 @@
 @import url(styles/pratica.css);
 @import url(styles/sustentabilidade.css);
 @import url(styles/footer.css);
-@import url(reset.css);
 
 :root{
     --cor-branco: #FFFFFF;
