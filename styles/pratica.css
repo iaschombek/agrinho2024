@@ -22,9 +22,9 @@ body{
 .texto{
     color: var(--cor-preto);
     margin-top: 3%;
-    padding-left: 7em;
+    padding-left: 9em;
     text-align:justify;
-    font-size: 27px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 30;
     line-height: normal;
