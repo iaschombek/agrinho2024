@@ -1,4 +1,5 @@
-# agrinho2024
+# Agrinho 2024
 Projeto Desenvolvindo para o concurso Agrinho 2024, com o tema "Do campo a cidade, colhendo oportunidades". 
 O site é sobre a sustentabilidade no campo e nas cidades, e a forma com que são implantadas nessas áreas. Na página principal é possivel encontrar dois cards que direcionaram para outras abas, o primeiro card irá para a página de sustentabilidade no campo, e o segundo irá para sustentabilida nas cidades ligadas ao campo. Nessas abas terão imagens que quando o cursor passar por cima irão mostrar o texto. Na parte superior de todas as abas é possível encontrar o guia que direcionará para as abas que quiser. Na aba de sustentabilidade no campo, é possível encontrar imagens com os Objetivos de Desenvolvimento Sustentável (ODS), e quando clicado nas imagens será direcionado para a página oficial das Nações Unidas Brasil, que irão explicar os objetivos. Todas as imagens do site forão criadas no aplicativo "Canva".
+
 O projeto foi criado pela aluna Fabiana Iaschombek Costa e a professora Fernanda Machado, no Colégio Estadual Wilson Joffre, nas aulas de Matemática II, do novo ensino médio.
